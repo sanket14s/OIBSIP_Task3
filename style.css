@@ -1,0 +1,54 @@
+*{
+    font-family: 'Nunito', sans-serif;
+    outline: 1px; border:1px;
+    
+    text-transform: capitalize;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.body{
+    align-items: center;
+
+}
+.temp{
+    width: 30%;
+    margin-top: 50px;
+    border: 1px;
+    background-color: rgb(248, 238, 222);
+    border: solid black 1px ;
+    border-radius: 5px;
+    margin-left: 550px;
+}
+.temp form{
+    align-items: center;
+    margin-left: 70px;
+}
+.title{
+    font-size: 30px;
+    border-bottom: 2px solid maroon;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: white;
+}
+.value{
+    margin-top: 10px;
+
+}
+.value input{
+    border-bottom: solid black 1px;
+    background: none;
+}
+.calculator select{
+    background: none;
+}
+.calculator_input select{
+    background: none;
+}
+.cal-btn{
+    background-color: rgb(255, 140, 57);
+    border-radius: 3px;
+}
+.result_area input{
+    background: none;
+    border-bottom: 1px solid black;
+}
